@@ -1,5 +1,5 @@
 # RealTimeSocialMediaPipeline
-RealTimeSocialMediaPipeline (Spark&amp;Kafka&amp;Facepook Graph API)
+RealTimeSocialMediaPipeline (Spark&amp;Kafka&amp;Facebook Graph API)
 
 Real-Time Social Media Data Pipeline 
 with Spark Streaming & Kafka 
